@@ -3,7 +3,7 @@
 ## Un poco de mi
 
 Me llamo Antonio, Toni para los amigos, y soy un simple muchacho andaluz que solo busca formarse en lo que le gusta, desarrollar aplicaciones.
-Actualmente, trabajo como desarrollador backend, principalmente con proyectos Java, aunque espero en un futuro poder dedicarme al desarrollo de aplicaciones móviles.
+Actualmente, trabajo como desarrollador backend, principalmente con proyectos Java, aunque espero en un futuro poder dedicarme exclusivamente al desarrollo de aplicaciones móviles.
 
 De momento no tengo mucho que contar sobre mí, pero espero que podamos hacer cosas chingonas por estos lares. Sientesen y disfruten, el espectáculo sólo acaba de comenzar.
 
