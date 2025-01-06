@@ -32,14 +32,16 @@
 
 ## Hobbies
 
-🎨 **Dibujo manga**: Estoy empezando a aprender y mejorar mis habilidades artísticas.  
 🎮 **Videojuegos**: Desde jugar hasta aprender a desarrollarlos, los videojuegos son una gran fuente de inspiración para mí.  
 📚 **Aprender idiomas**: Actualmente estoy mejorando mi inglés.  
+📺 **Manga y Anime**: Disfruto mucho del manga y el anime, tanto en su formato como en sus historias.  
+🎨 **Dibujo**: Estoy empezando a aprender y mejorar mis habilidades artísticas.  
 🏋️ **Deporte**: Practico CrossFit para mantenerme activo y equilibrado.  
 🏃‍♂️ **Correr**: Estoy empezando a salir a correr y estoy considerando participar en alguna media maratón.  
 ⚽ **Fútbol**: Me encanta ver y jugar al fútbol en mi tiempo libre.  
 🎧 **Música y podcasts**: Me gusta concentrarme con bandas sonoras, especialmente las de videojuegos y animes.  
 🎭 **Carnaval de Cádiz**: Soy un gran aficionado al carnaval de Cádiz y disfruto de su música y ambiente.  
+
 
 ---
 
